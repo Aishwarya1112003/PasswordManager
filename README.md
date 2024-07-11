@@ -2,6 +2,8 @@
 
 ![Screenshot 2024-07-11 163017](https://github.com/Aishwarya1112003/Resturant-At-Ur-Service/assets/92740176/88f330a9-f19a-4ff8-976e-112bbdfcd85d)
 
+![Screenshot 2024-07-11 163146](https://github.com/Aishwarya1112003/Resturant-At-Ur-Service/assets/92740176/615ef0ce-21a2-4ebc-b7a8-3f81dea2e320)
+
 ![Screenshot 2024-07-11 163348](https://github.com/Aishwarya1112003/Resturant-At-Ur-Service/assets/92740176/8b95c278-e263-4a8f-b33e-7bdb7c40d426)
 
 ![Screenshot 2024-07-11 163445](https://github.com/Aishwarya1112003/Resturant-At-Ur-Service/assets/92740176/a05ad3d2-5b87-4f3d-9c14-09be645e3844)
