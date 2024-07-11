@@ -1,4 +1,4 @@
-![image](https://github.com/Aishwarya1112003/Resturant-At-Ur-Service/assets/92740176/d95c299b-f588-43fa-b312-c96869f36fb7)# Resturant at your service
+# Resturant at your service
 
 ![Screenshot 2024-07-11 163017](https://github.com/Aishwarya1112003/Resturant-At-Ur-Service/assets/92740176/88f330a9-f19a-4ff8-976e-112bbdfcd85d)
 
